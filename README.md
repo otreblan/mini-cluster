@@ -12,3 +12,5 @@ Reemplazé Arch Linux arm con Raspbian.
 - [ ] En cada slave: `sshfs pi@master:/home/pi/N-Body N-Body`
 - [ ] `cd N-Body; make # Algunos binarios antiguos podrian interferir`
 - [ ] `mpirun --hostfile hostfile.txt ./cpu-4th #https://www.open-mpi.org/faq/?category=running#mpirun-host`
+
+![20231127_152009](https://github.com/otreblan/mini-cluster/assets/39320840/6e056359-1835-48cc-b4c5-cbba81499422)
